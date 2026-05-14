@@ -1,0 +1,8 @@
+lookback_days: 180
+volume_ratio_threshold: 1.5
+market_cap_min_oku: 100
+use_market_cap_filter: true
+require_bullish: true
+require_above_25ma: true
+top_n: 10
+max_tickers: 200
